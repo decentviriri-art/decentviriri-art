@@ -1,4 +1,4 @@
-# Hi, I'm Descent Viriri 👋
+# Hi, I'm Descent Viriri 
 
 🎓 B.Sc. (Hons) Computer Science Student at KIIT
 
@@ -10,7 +10,7 @@
 - Git & GitHub
 - Data Science
 
-🚀 Projects
+ Projects
 - Python Calculator
 - LCD Display Project
 
