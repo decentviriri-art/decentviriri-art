@@ -1,4 +1,4 @@
-# Hi, I'm Tatenda Viriri 👋
+# Hi, I'm Descent Viriri 👋
 
 🎓 B.Sc. (Hons) Computer Science Student at KIIT
 
