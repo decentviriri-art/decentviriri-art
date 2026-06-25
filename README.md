@@ -13,6 +13,7 @@
  Projects
 - Python Calculator
 - LCD Display Project
+- number guessing game
 
 🎯 Career Goal
 To become a Data Scientist and Software Engineer capable of solving real-world problems.
