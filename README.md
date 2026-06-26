@@ -14,6 +14,7 @@
 - Python Calculator
 - LCD Display Project
 - number guessing game
+- password-generator
 
 🎯 Career Goal
 To become a Data Scientist and Software Engineer capable of solving real-world problems.
