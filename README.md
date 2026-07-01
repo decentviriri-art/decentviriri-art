@@ -15,6 +15,7 @@
 - LCD Display Project
 - number guessing game
 - password-generator
+- expense-trackor
 
 🎯 Career Goal
 To become a Data Scientist and Software Engineer capable of solving real-world problems.
