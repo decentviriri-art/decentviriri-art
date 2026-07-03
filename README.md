@@ -16,6 +16,7 @@
 - number guessing game
 - password-generator
 - expense-trackor
+- student management system
 
 🎯 Career Goal
 To become a Data Scientist and Software Engineer capable of solving real-world problems.
